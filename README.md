@@ -1,4 +1,4 @@
-NOD32-BOT is new and best bot.
+avast-BOT is new and best bot.
 _________________________________________________________________________________
 for install  
 ```bash
@@ -10,9 +10,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/BH-YAGHI/NOD32-BOT.git
+git clone https://github.com/titanteam0098/avast_source
 
-cd NOD32-BOT
+cd avast_suorce
 
 chmod +x launch.sh
 
@@ -49,6 +49,6 @@ HOW DO MAKE UPDATE THIS FILE?
 see this git https://github.com/BH-YAGHI/tg.git
 
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
+channel : https://telegram.me/avast_team
 
-developer : https://telegram.me/Behroozyaghi
+developer : https://telegram.me/arash_avast
