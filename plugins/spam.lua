@@ -20,7 +20,7 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright and edit; @arash_avast
+--Persian Translate; @arash_avast
+--ch : @avast_team
 --کپی بدون ذکر منبع حرام است
